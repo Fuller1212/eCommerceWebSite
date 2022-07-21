@@ -10,3 +10,6 @@ html {
     box-sizing: border-box;
     font-size: 62.5%;
 }
+footer{
+    background-color: rgb(191, 118, 49);
+}
