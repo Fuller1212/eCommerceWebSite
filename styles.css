@@ -13,3 +13,13 @@ html {
 footer{
     background-color: rgb(191, 118, 49);
 }
+
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
