@@ -68,11 +68,7 @@ a{
     height: 475px;
 }
 
-.product_options{
-    display: flex;
-    width: 200px;
-    height: 250px;
-}
+
 .about_us{
     border-bottom: 4px solid black;
     height: 60%;
@@ -91,6 +87,14 @@ a{
     border-bottom: 4px solid black;
     height: 60%;
     width: 700px
+}
+.product_options{
+    /* display: flex; */
+    width: 200px;
+    height: 250px;
+}
+.flex_container{
+    display: flex;
 }
 .footer_img{
     color: white;;
